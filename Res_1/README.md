@@ -9,10 +9,10 @@
 
 ### Series Title: Building a Simple Web Page
 [01-Getting-Started](01-Getting-Started/Flask_Blog)
-[02-Templates](#02-Templates)
-[03-Forms-and-Validation](#03-Forms-and-Validation)
-[04-Database](#04-Database)
-[05-Package-Structure](#05-Package-Structure)
+[02-Templates](Res_1/02-Templates/Flask_Blog)
+[03-Forms-and-Validation](Res_1/03-Forms-and-Validation/Flask_Blog)
+[04-Database](Res_1/03-Forms-and-Validation/Flask_Blog)
+[05-Package-Structure](Res_1/05-Package-Structure/Flask_Blog)
 [06-Login-Auth](#06-Login-Auth)
 [07-User-Account-Profile-Pic](#07-User-Account-Profile-Pic)
 [08-Posts](#08-Posts)
