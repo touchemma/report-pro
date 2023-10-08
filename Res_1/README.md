@@ -8,7 +8,7 @@
 * This comprehensive project aims to deliver a user-friendly and feature-rich platform for bloggers and readers alike.
 
 ### Series Title: Building a Simple Web Page
-[https://github.com/touchemma/report-pro/tree/main/Res_1](#01-Getting-Started)
+[01-Getting-Started](01-Getting-Started/Flask_Blog)
 [02-Templates](#02-Templates)
 [03-Forms-and-Validation](#03-Forms-and-Validation)
 [04-Database](#04-Database)
