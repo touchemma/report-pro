@@ -41,22 +41,22 @@
    ------------------
 
 # Step 1: [Setting Up Your Environment]()
-*    - Description: Installing necessary tools and creating project folders.
-*    - Code: [Link to code]
-*    - Image: [Link to image]
-*    - Output: N/A
+    - Description: Installing necessary tools and creating project folders.
+    - Code: [Link to code]
+    - Image: [Link to image]
+    - Output: N/A
 
 # Step 2: [Creating the HTML Structure]()
-*    - Description: Writing the basic HTML structure for your webpage.
-*    - Code: [Link to code]
-*    - Image: [Link to image]
-*    - Output: N/A
+    - Description: Writing the basic HTML structure for your webpage.
+    - Code: [Link to code]
+    - Image: [Link to image]
+    - Output: N/A
 
 # Step 3: Styling with CSS
-*    - Description: Adding CSS styles to make your webpage visually appealing.
-*    - Code: [Link to code]
-*    - Image: [Link to image]
-*    - Output: N/A
+    - Description: Adding CSS styles to make your webpage visually appealing.
+    - Code: [Link to code]
+    - Image: [Link to image]
+    - Output: N/A
 
 # Step 4: Adding JavaScript Interactivity
     - Description: Incorporating JavaScript to add interactivity.
