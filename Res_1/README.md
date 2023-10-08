@@ -1,6 +1,6 @@
 # Research & Project approval (Part 1)
 ## 0. Share your project proposal!
-* Share a link here to a Google Document where each of the following tasks are addressed.
+[https://github.com/touchemma/report-pro/tree/main/Res_1]
 ## 1. Blog Site Development Series
 * The "Blog Site Development Series Project" is a multi-phase initiative focused on creating a fully functional and visually appealing blog website. 
 * It involves   tasks such as design, front-end and back-end development, database integration, user authentication, and optimization for 
