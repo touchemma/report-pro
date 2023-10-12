@@ -1,88 +1,88 @@
 # Research & Project approval (Part 1)
 ## 0. Share your project proposal!
-[https://github.com/touchemma/report-pro/tree/main/Res_1]
-## 1. TITLE OF PROJECT : Blog Site Development Series
+* Share a link here to a Google Document where each of the following tasks are addressed.
+## 1. Blog Site Development Series
 * The "Blog Site Development Series Project" is a multi-phase initiative focused on creating a fully functional and visually appealing blog website. 
 * It involves   tasks such as design, front-end and back-end development, database integration, user authentication, and optimization for 
   search engines and    performance. 
 * This comprehensive project aims to deliver a user-friendly and feature-rich platform for bloggers and readers alike.
 
 ### Series Title: Building a Simple Web Page
-* [01-Getting-Started](01-Getting-Started/Flask_Blog)
-* [02-Templates](02-Templates/Flask_Blog)
-* [03-Forms-and-Validation](03-Forms-and-Validation/Flask_Blog)
-* [04-Database](04-Database/Flask_Blog)
-* [05-Package-Structure](05-Package-Structure/Flask_Blog)
-* [06-Login-Auth](#06-Login-Auth)
-* [07-User-Account-Profile-Pic](#07-User-Account-Profile-Pic)
-* [08-Posts](#08-Posts)
-* [09-Pagination](#09-Pagination)
-* [10-Password-Reset-Email](##06-Login-Auth)
-* [11-Blueprints](#11-Blueprints)
+[01-Getting-Started](#01-Getting-Started)
+[02-Templates](#02-Templates)
+[03-Forms-and-Validation](#03-Forms-and-Validation)
+[04-Database](#04-Database)
+[05-Package-Structure](#05-Package-Structure)
+[06-Login-Auth](#06-Login-Auth)
+[07-User-Account-Profile-Pic](#07-User-Account-Profile-Pic)
+[08-Posts](#08-Posts)
+[09-Pagination](#09-Pagination)
+[10-Password-Reset-Email](##06-Login-Auth)
+[11-Blueprints](#11-Blueprints)
 
-* [07-User-Account-Profile-Pic](#07-User-Account-Profile-Pic)
-* [08-Posts](#08-Posts)
-* [09-Pagination](#09-Pagination)
-* [10-Password-Reset-Email](##06-Login-Auth)
-* [11-Blueprints](#11-Blueprints)
+[07-User-Account-Profile-Pic](#07-User-Account-Profile-Pic)
+[08-Posts](#08-Posts)
+[09-Pagination](#09-Pagination)
+[10-Password-Reset-Email](##06-Login-Auth)
+[11-Blueprints](#11-Blueprints)
 
-* [12-Error-Pages](#12-Error-Pages)
-* [08-Posts](#08-Posts)
-* [09-Pagination](#09-Pagination)
-* [10-Password-Reset-Email](##06-Login-Auth)
-* [11-Blueprints](#11-Blueprints)
-* [12-Error-Pages](#12-Error-Pages)
-* [13-Deployment-Linode](#13-Deployment-Linode)
-* [13-Deployment](#13-Deployment)
-* [14-requirements.txt](#14-requirements.txt)
+[12-Error-Pages](#12-Error-Pages)
+[08-Posts](#08-Posts)
+[09-Pagination](#09-Pagination)
+[10-Password-Reset-Email](##06-Login-Auth)
+[11-Blueprints](#11-Blueprints)
+[12-Error-Pages](#12-Error-Pages)
+[13-Deployment-Linode](#13-Deployment-Linode)
+[13-Deployment](#13-Deployment)
+[14-requirements.txt](#14-requirements.txt)
 
 
-## Table of Contents 
-   ------------------
+Table of Contents 
+------------------
 
-# Step 1: [Setting Up Your Environment]()
+Step 1: Setting Up Your Environment
     - Description: Installing necessary tools and creating project folders.
     - Code: [Link to code]
     - Image: [Link to image]
     - Output: N/A
 
-# Step 2: [Creating the HTML Structure]()
+Step 2: Creating the HTML Structure
     - Description: Writing the basic HTML structure for your webpage.
     - Code: [Link to code]
     - Image: [Link to image]
     - Output: N/A
 
-# Step 3: Styling with CSS
+Step 3: Styling with CSS
     - Description: Adding CSS styles to make your webpage visually appealing.
     - Code: [Link to code]
     - Image: [Link to image]
     - Output: N/A
 
-# Step 4: Adding JavaScript Interactivity
+Step 4: Adding JavaScript Interactivity
     - Description: Incorporating JavaScript to add interactivity.
     - Code: [Link to code]
     - Image: [Link to image]
     - Output: N/A
 
-# Step 5: Testing and Debugging
+Step 5: Testing and Debugging
     - Description: Debugging your code and ensuring everything works as expected.
     - Code: [Link to code]
     - Image: [Link to image]
     - Output: N/A
 
-# Step 6: Deploying Your Web Page
+Step 6: Deploying Your Web Page
     - Description: Deploying your webpage to a web server or hosting platform.
     - Code: [Link to code]
     - Image: [Link to image]
     - Output: N/A
 
-# Step 7: Final Thoughts and Next Steps
+Step 7: Final Thoughts and Next Steps
     - Description: Summarizing the project and suggesting further improvements.
     - Code: N/A
     - Image: [Link to image]
     - Output: N/A
 
-# Appendix: Additional Resources
+Appendix: Additional Resources
     - Description: Links to additional resources, references, and further learning.
     - Code: N/A
     - Image: N/A
